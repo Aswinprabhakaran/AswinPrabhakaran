@@ -1,5 +1,8 @@
 # DATA SCIENTIST 
 
+![Aswin_pic](https://github.com/Aswinprabhakaran/AswinPrabhakaran.github.io/assets/26542197/9e15f0e1-51ca-40bb-8a63-860241fad793)
+
+
 ### PROFESSIONAL SUMMARY
 - Senior Data Scientist with 5+ years' expertise in Deep Learning, delivering statistical analytical solutions for Banking &
 Finance, Healthcare, Pharma, Retail, and Automotive industries.
