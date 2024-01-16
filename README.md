@@ -3,28 +3,21 @@
 # DATA SCIENTIST 
 
 ### PROFESSIONAL SUMMARY
-- Senior Data Scientist with 5+ years' expertise in Deep Learning, delivering statistical analytical solutions for Banking &
-Finance, Healthcare, Pharma, Retail, and Automotive industries.
-- Proficient in Python, Data Science, Machine Learning, Deep Learning, SQL, Azure, and AWS with a track record of
-software development for end-to-end monitoring and reporting.
-- Experienced in developing and optimizing data and deployment pipelines, implementing CI/CD processes for enhanced
-system reliability, efficiency, and cost savings.
-- Skilled in handling historical data for pattern identification, trend analysis, and forecasting using techniques like ARIMA,
-SARIMA, and Prophet.
-- Ensured code quality through GitHub, and Bitbucket and implemented DVC(data version control) systems for secure data
-handling.
-- Delivered business models as APIs on cloud platforms, utilizing Docker and other tools for seamless integration and
-scalability.
-- Proficient in statistical analysis, A/B testing, machine learning, Power BI visualization, and complex architectures of deep
-learning algorithms.
-- Managed cost-optimized cloud infrastructure for efficient data science solutions based on thorough cost analysis.
-- Demonstrated exceptional interpersonal, problem-solving, and communication skills in collaborative team environments,
-with strong mentorship abilities.
-- Showcased expertise in Regression (Linear, Non-Linear, Time Series, XGBoost, Lasso, Ridge), Classification(Ensembles,
-SVMs, KNNs), Clustering (K-Means, DBSCAN, Hierarchical & Brute Force), and other predictive models.
+
+- Senior Data Scientist with 5+ years' expertise in Deep Learning, delivering statistical analytical solutions for Banking & Finance, Healthcare, Pharma, Retail, and Automotive industries.
+
+- Proficient in Python, Data Science, Machine Learning, Deep Learning, SQL, Azure, AWS and Github. 
+
+- Experienced in developing, optimizing, and deployment data pipelines including implementing CI/CD processes.
+
+- Skilled in handling historical time series data for pattern identification, trend analysis, and forecasting using techniques like ARIMA, SARIMA, and Prophet.
+
+- Showcased expertise in statistical analysis, A/B testing, Regression (Linear, Non-Linear, Time Series, XGBoost, Lasso, Ridge), Classification(Ensembles,SVMs, KNNs), Clustering (K-Means, DBSCAN, Hierarchical & Brute Force), and other predictive models.
+
 - Solid grasp of Language Model Libraries (LLM) and Vector Databases, for Generative AI applications.
 
 ### TECHNICAL SKILLS
+
 - Expertise: Project Architecture, Deep Learning, Computer Vision, Object detection and Classification, Time Series Modelling,
 - Demand Analysis, and write-once, deploy-anywhere approach
 - Cloud Computing Platforms: AWS and Azure – Workspace, Instance, Storage, Network establishment, Lambda, Sagemaker,
