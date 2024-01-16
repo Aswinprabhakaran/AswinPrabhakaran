@@ -6,5 +6,5 @@ logo: /assets/img/ProfilePic.png
 #description: text below image
 show_downloads: false
 
+layout: single
 classes: wide
-linkedin_username: aswinprabhakaran
