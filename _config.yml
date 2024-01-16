@@ -4,6 +4,7 @@ theme: jekyll-theme-minimal
 
 logo: /assets/img/ProfilePic.png
 #description: text below image
-show_downloads: true
+show_downloads: false
 
 classes: wide
+linkedin_username: aswinprabhakaran

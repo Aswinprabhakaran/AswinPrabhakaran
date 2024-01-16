@@ -5,13 +5,9 @@
 ### PROFESSIONAL SUMMARY
 
 - Senior Data Scientist with 5+ years' expertise in Deep Learning, delivering statistical analytical solutions for Banking & Finance, Healthcare, Pharma, Retail, and Automotive industries.
-
 - Proficient in Python, Data Science, Machine Learning, Deep Learning, SQL, Azure, AWS and Github. 
-
 - Experienced in developing, optimizing, and deployment data pipelines including implementing CI/CD processes.
-
 - Showcased expertise in statistical analysis, A/B testing, Regression (Linear, Non-Linear, Time Series, XGBoost, Lasso, Ridge), Classification(Ensembles,SVMs, KNNs), Clustering (K-Means, DBSCAN, Hierarchical & Brute Force), and Time Series (ARIMA, SARIMA, LSTM, GRU and Prophet).
-
 - Solid grasp of Language Model Libraries (LLM) and Vector Databases, for Generative AI applications.
 
 ### TECHNICAL SKILLS
@@ -30,7 +26,7 @@
 - B.E, Computer Science	| Anna University, India (_April 2018_)	 			 
 
 ### CERTIFICATIONS
-- Azure Data Scientist Associate | Issued by Microsoft
+- [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/aswinprabhakaran-0701/credentials/1b229761ae17a15e)| Issued by Microsoft
 - Machine Learning with Tensor-flow 2.0 | Issued by Google & IIT-M  
 
 ### WORK EXPERIENCE
