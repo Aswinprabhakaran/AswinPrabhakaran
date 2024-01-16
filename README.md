@@ -14,7 +14,7 @@
 
 - Solid grasp of Language Model Libraries (LLM) and Vector Databases, for Generative AI applications.
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 - **Cloud Computing Platforms**: AWS and Azure – Workspace, Instance, Storage, Network establishment, Lambda, Sagemaker, RDS, Redshift, Cloud Watch, IAM, Active Directory, Resource Manager, ML Workspace, DNS and Cloud Monitor.
 - **Programming and Tools**: Python, Big Data, Hadoop, Map Reduce, MLflow, PySpark, Stats models, Tableau, Power BI, Pandas, Numpy, SQLAlchemy, NLTK, Dash, Plotly, Matplotlib, Jupyter, NLP, Postman, ROBOT & Selenium.
@@ -25,13 +25,13 @@
 - **Operating Systems**: Windows, Linux (Ubuntu)
 - **Version Control Systems**: Git, GitHub, GitLab, Bitbucket, and Data Version Control (DVC)
 
-## Education
+### EDUCATION
 - Masters, AI & ML | Lambton College, Toroto (_Aug 2023_)								       		
 - B.E, Computer Science	| Anna University, India (_April 2018_)	 			 
 
-## CERTIFICATIONS
-- Microsoft Certified | Azure Data Scientist Associate
-- Machine Learning with Tensor-flow 2.0 | Google & IIT-M  
+### CERTIFICATIONS
+- Azure Data Scientist Associate | Issued by Microsoft
+- Machine Learning with Tensor-flow 2.0 | Issued by Google & IIT-M  
 
 ### WORK EXPERIENCE
 
