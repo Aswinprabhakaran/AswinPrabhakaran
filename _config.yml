@@ -6,10 +6,5 @@ logo: /assets/img/ProfilePic.png
 #description: text below image
 show_downloads: false
 
-layout: single
-classes: wide
-
-
-main:
-  - title: "External Link"
-    url: https://google.com
+# layout: single
+# classes: wide
